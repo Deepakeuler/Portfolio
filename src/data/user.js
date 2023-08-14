@@ -14,7 +14,6 @@ const INFO = {
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
-//df
 	homepage: {
 		title: "Backend Develper",
 		description:
@@ -22,9 +21,9 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Deepak Sharma. I live in India(Bangalore), where I design the future.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"Throughout my journey, I've embarked on a diverse range of projects that encapsulate my dedication and growth. Several of these ventures are open-source, inviting fellow enthusiasts to delve in, explore, and contribute. Should any of these projects intrigue you, I encourage you to delve into the codebase, sharing your insights and suggestions for refinement. Embracing collaboration as a catalyst for learning and advancement, I warmly welcome fresh perspectives, novel ideas, and constructive feedback. Let's join forces to cultivate innovation and collectively elevate our shared knowledge. Your input is invaluable, and I eagerly anticipate the opportunity to learn and evolve through our collaborative efforts.",
 	},
 
 	articles: {
@@ -53,12 +52,13 @@ const INFO = {
 		},
 
 		{
-			title: "Project 3",
+			title: "Backend Clone of Instagram",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Converted requirements to a Minimum Viable Product similar to Instagram’s backend. Designed Class structure, use-cases and implemented the APIs to mimic Instagram’s backend.   <Docker,Kubernetes,Git,Java,SQL,React,SpringBoot,AWS,CI/CD,Maven,Junit>",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
+			logo1: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Deepakeuler/Socilal-Media/tree/master",
 		},
 
 		{
