@@ -62,21 +62,30 @@ const INFO = {
 		},
 
 		{
-			title: "Project 4",
+			title: "Personal Assistant Robot",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"A robot built for monitoring the environment using cameras and ultrasonic sensors. It was built using RaspberryPi and programmed using Python, IoT",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 5",
+			title: "Java Collections Clone",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Implemented  Stacks, Queues, LinkedLists, HashMap, ArrayList, Priority Queue, Trees, Binary Search Trees and Graphs in a backend API like Java’s collections.",
+				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
 			linkText: "View Project",
 			link: "https://github.com",
+		},
+
+		{
+			title: "Backend Clone of Cab Booking App",
+			description:
+				"Converted requirements to a Minimum Viable Product similar to OLA(Cab Booking Application) backend. Designed Class structure, use-cases and implemented the APIs to mimic OLA's backend.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
+			linkText: "View Project",
+			link: "https://github.com/Deepakeuler/Cab_Application",
 		},
 	],
 };
