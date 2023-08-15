@@ -2,14 +2,14 @@ const INFO = {
 	main: {
 		title: "Reactfolio by truethari",
 		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		email: "deepaksharmaforwork@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		github: "https://github.com/Deepakeuler",
+		linkedin: "https://www.linkedin.com/in/deepak-sharma-6a7a07121/",
 		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
@@ -55,8 +55,8 @@ const INFO = {
 			title: "Backend Clone of Instagram",
 			description:
 				"Converted requirements to a Minimum Viable Product similar to Instagram’s backend. Designed Class structure, use-cases and implemented the APIs to mimic Instagram’s backend.   <Docker,Kubernetes,Git,Java,SQL,React,SpringBoot,AWS,CI/CD,Maven,Junit>",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
-			logo1: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png",
+			// logo1: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
 			linkText: "View Project",
 			link: "https://github.com/Deepakeuler/Socilal-Media/tree/master",
 		},
